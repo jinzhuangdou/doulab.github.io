@@ -8,11 +8,10 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Zhang Stat Gen Lab @ Penn
+title : Dou Lab @ UAB
 author :
-  name : Nancy R. Zhang
-  email : nzh@wharton.upenn.edu
-  github : nzhanglab
+  name : Jinzhuang Dou
+  email : jdou1@mdanderson.org
 
 # NOTE: Replacing this next line with your own URL
 production_url : https://nzhanglab.github.io/
