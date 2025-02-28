@@ -12,7 +12,7 @@ description: About the PI
         <div class="span2">
             <a href="../assets/pics/nrz_small.JPEG">
             <img src="../assets/pics/nrz_small.JPEG"
-                  title="Nancy R. Zhang" alt="Nancy R. Zhang"  width="400"/></a>
+                  title="Jinzhuang Dou" alt="Jinzhuang Dou"  width="400"/></a>
         </div>
 
         <div class="span5">
