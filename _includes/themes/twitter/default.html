@@ -55,6 +55,25 @@
 
     </div>
 
+
+    <!-- Scroll Down Button (Add below the intro section) -->
+<button onclick="scrollToNews()" class="scroll-down-btn">
+  📰 View Latest News
+</button>
+
+<!-- News Section (Add this section where the news updates are displayed) -->
+<div id="news-section">
+  <h2>Latest News</h2>
+  <ul>
+    {% for post in site.posts limit:2 %}
+      <li>
+        <strong><a href="{{ post.url }}">{{ post.title }}</a></strong> - {{ post.date | date: "%B %d, %Y" }}
+        <p>{{ post.excerpt }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
     {% include JB/analytics %}
   </body>
 </html>
