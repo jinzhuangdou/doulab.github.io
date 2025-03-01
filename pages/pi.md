@@ -17,18 +17,13 @@ description: About the PI
 
         <div class="span5">
             <h3>Jinzhuang Dou</h3>
-            Assitant Professor
-	    Department of Biomedical Informatics and Data Science 
+            Assitant Professor; Department of Biomedical Informatics and Data Science 
             Heersink School of Medicine/>
 	    <a href="../assets/nzhang_cv.pdf">Download my CV</a><br/>
 	    My Email:  jdou1@mdanderson.org
         </div>
     </div>
 </div>
-
-
-
-
 <hr />
 
 When I was working towards a Bachelor’s in Mathematics at Stanford, the first draft of the human genome sequence was nearing completion, microarrays were transforming biological research, and the term “GWAS” had not yet been coined.  The idea of gaining a systemic understanding of biology – through quantitative modeling and mining of data from high throughput experiments – fascinated me.  But being a math major had nothing to do with knowing what to do with data :) so I went on to a Ph.D in Statistics and picked up the Biology I needed along the way.  
