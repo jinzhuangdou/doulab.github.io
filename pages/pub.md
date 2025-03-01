@@ -5,11 +5,11 @@ description: Publications
 ---
 2024
 
-* [Interleukin-21 engineering enhances NK cell activity against glioblastoma via CEBPD.](https://www.cell.com/cancer-cell/abstract/S1535-6108(24)00272-1) S, Mayra, M Daher, **J Dou**, S Li, R Basar, H Rafei, M Dede et al. **Cancer cell** 42, no. 8 (2024): 1450-1466.
+* [Interleukin-21 engineering enhances NK cell activity against glioblastoma via CEBPD.](https://www.cell.com/cancer-cell/abstract/S1535-6108(24)00272-1) <br/>S, Mayra, M Daher, **J Dou**, S Li, R Basar, H Rafei, M Dede et al. **Cancer cell** 42, no. 8 (2024): 1450-1466.
 
-* [Temporal recording of mammalian development and precancer.](https://www.nature.com/articles/s41586-024-07954-4) I, Mirazul, Y Yang, A J. Simmons, V M. Shah, ...,  **J Dou**, Y Xu, N Tasneem et al. **Nature** 634, no. 8036 (2024): 1187-1195.
+* [Temporal recording of mammalian development and precancer.](https://www.nature.com/articles/s41586-024-07954-4) <br/> I, Mirazul, Y Yang, A J. Simmons, V M. Shah, ...,  **J Dou**, Y Xu, N Tasneem et al. **Nature** 634, no. 8036 (2024): 1187-1195.
 
-* [Stem cell activity-coupled suppression of endogenous retrovirus governs adult tissue regeneration.](https://www.cell.com/cell/abstract/S0092-8674(24)01155-3) L Ying, S Kim, E Humphrey, R Nayak, Y Guan, ...,**J Dou**,... , K Kim et al. **Cell** 187, no. 26 (2024): 7414-7432.
+* [Stem cell activity-coupled suppression of endogenous retrovirus governs adult tissue regeneration.](https://www.cell.com/cell/abstract/S0092-8674(24)01155-3) <br/> L Ying, S Kim, E Humphrey, R Nayak, Y Guan, ...,**J Dou**,... , K Kim et al. **Cell** 187, no. 26 (2024): 7414-7432.
 
 2023
 
