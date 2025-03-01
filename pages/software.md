@@ -3,85 +3,33 @@ layout: page
 title: Software
 description: List of software developed by our group
 ---
-**In alphabetical order ...**
 
-### For single cell data analysis:
+Most of my software as well as vignettes and scripts for the analyses connnected to my research can be found on my [GitHub page](https://github.com/jinzhuangdou). I maintain the following software packages:
 
-**NicheDE** (spatial niche-differential expression analysis)(
-([Github](https://github.com/kaishumason/NicheDE))
 
-**CellANOVA** (cell state space analysis of variance)(
-([Github](https://github.com/Janezjz/cellanova))
+## Monopogen (Single nucleotide variant calling from single cell sequencing) 
 
-**Alleloscope** (allele-specific copy number estimation for scDNA and scATAC sequencing)
-([Github](https://github.com/seasoncloud/Alleloscope))
+Monopogen is developed to achieve SNV calling from single cell RNA sequencing, single cell ATAC sequencing. The package `Monopogen` is available from [GitHub](https://github.com/KChen-lab/Monopogen) 
 
-**cTP-Net** (single cell Transcriptome to Protein prediction with deep neural network)
-([Github](https://github.com/zhouzilu/cTPnet/))
+## BindSC (Bi-order integration of single cell multi-omics data) 
 
-**DENDRO** (Genetic heterogeneity profiling by scRNA-seq)
-([Github](https://github.com/zhouzilu/DENDRO))
+This tool is developed to achive bi-order integration (in silico multi-omics data) of single cell RNA sequencing, single cell ATAC sequencing, spacial transcriptomics and CyTOF data. The package `BindSC` is available from [GitHub](https://github.com/KChen-lab/bindSC) 
 
-**DESCEND** (Expression distribution deconvolution for single cell RNA-seq)
-([Github](https://github.com/jingshuw/descend))
+## WEScall (A genotype calling pipeline for whole exome sequencing (WES) data)
 
-**MUSIC** (Bulk expression deconvolution with scRNA-seq reference) 
-([Github](https://github.com/xuranw/MuSiC))
+WESCall can analyze both target and off-target data, and is a useful tool to facilitate WES sutides with decent amount of off-target data.The package `WEScall` is available from [GitHub](https://github.com/dwuab/WEScall) 
 
-**SAVER** (Gene expression imputation and denoising for single cell RNA sequencing)
-([Github](https://github.com/mohuangx/SAVER))
+## SEEKIN (Sequencing-based estimation of kniship and inbreeding coefficients)
 
-**SAVER-X** (SAVER harnessing external data)
-([Github](https://singlecell.wharton.upenn.edu/saver-x/))
+This program estimates the kinship and inbreeding coefficients based on extremely low-sequencing coverage datasets (typically lower than 0.5X). The code is available from [GitHub](https://github.com/chaolongwang/SEEKIN).
 
-**SCALE** (Single cell allele-specific expression analysis)  
-([Github](https://github.com/yuchaojiang/SCALE))
+## AMMO (An integrated package for whole-genome restriction mapping and genome scaffolding)
 
-**TASC** (Toolkit for noise modeling in single cell RNA-seq with spike-ins)]
-([Github](https://github.com/scrna-seq/TASC)]
+This is an integrated program that generates 2b-RAD-based restriction maps for scaffolding draft genome assemblies produced by using short Illumina reads or long PacBio reads. The package `AMMO` is available from [GitHub](https://github.com/jinzhuangdou/AMMO) 
+
+## RADTyping (De novo RAD Genotyping in Mapping Populations)
+
+This is an integrated package for accurate De Novo codominant and dominant RAD genotyping in mapping populations. The code is available from [GitHub](https://github.com/jinzhuangdou/RADtyping).
 
 <br/><br/> 
-
-### For copy number intra-tumor heterogeneity analysis:
-
-**CANOPY** (Tumor phylogeny reconstruction by spatial and temporal bulk RNA sequencing)
-([CRAN](https://cran.r-project.org/web/packages/Canopy/))
-
-**FALCON** (Allele-specific copy number estimation using whole genome sequencing data)
-([CRAN](https://cran.r-project.org/web/packages/falcon/index.html))
-
-**FALCON-X** (Allele-specific copy number estimation using whole exome sequencing data)
-([CRAN](https://cran.r-project.org/web/packages/falconx/index.html))
-
-**CODEX/CODEX2** (statistical framework for full-spectrum CNV profiling in whole genome, whole exome, and targeted DNA sequencing) 
-([Github](https://github.com/yuchaojiang/CODEX2))
-
-**iCNV** (Integration across array and sequencing platforms for copy number detection)
-([Github](https://github.com/zhouzilu/iCNV))
-
-**MARATHON** (Comprehensive pipeline for copy number profiling in normal and tumor samples)
-([Github](https://github.com/yuchaojiang/MARATHON))
-
-**SWAN** (Structural variant profiling using paired-end genome sequencing data)
-([Bitbucket](https://bitbucket.org/charade/swan/overview))
-
-
-<br/><br/> 
-
-### General statistical tools:
-
-**GCAT** (Two-sample tests for categorical data utilizing similarity information among the categories)
-([CRAN](https://cran.r-project.org/web/packages/gCat/index.html))
-
-**GSEG** (Change-point detection for multivariate data through a similarity graph on the observations)
-([CRAN](https://cran.r-project.org/web/packages/gSeg/index.html))
-
-**LEAPP** (Latent factor (“batch effect”) adjustment in multiple hypothesis testing)
-([CRAN](https://cran.r-project.org/web/packages/leapp/index.html))
-
-**SEMBLANCE** (rank-semblance kernel for data compression, niche detection, and feature extraction)
-([CRAN](https://cran.r-project.org/web/packages/Semblance/index.html))
-
-**SEQCBS** (Segmentation and Bayesian confidence interval calculation for matched case/control point processes)
-([CRAN](https://cran.r-project.org/web/packages/seqCBS/index.html))
 
