@@ -4,138 +4,82 @@ title: Publications (since 2011)
 description: Publications
 ---
 
-Klötzer KA, Abedini A, Balzer MS, Liang X, Levinsohn J, Ha E, Hogan JJ, Quinn G, Bloom RD, Schuller M, Eller K, Zhang NR*, Susztak K*. (2025) Unraveling the Cellular Features of Kidney Disease in a Cross-Species Integrated Single-Cell Kidney Atlas via Pathway-Level Gene Expression Coordination with ScSpectra.  **Nature Genetics, to appear.**
 
-Yu W, Biyik-Sit R, Uzun Y, Chen C-H, Thadi A, Sussman JH, Pang M, Wu C-Y, Grossmann LD, Gao P, Wu DW, Yousey A, Zhang M, Turn CS, Zhang Z, Bandyopadhyay S, Huang J, Patel T, Chen C, Martinez D, Surrey LF, Hogarty MD, Bernt K, Zhang NR, Maris JM, Tan K (2025) Longitudinal single-cell multiomic atlas of high-risk neuroblastoma reveals chemotherapy-induced tumor microenvironment rewiring Clonal cell states link Barrett’s esophagus and esophageal adenocarcinoma.  **Nature Genetics, to appear.**
+## Major Publications
 
-Wu C-Y, Rong J, Sathe A, Hess PR, Lau BT, Grimes SM, Huang S, Ji HP, Zhang NR* (2025). Cancer subclone detection based on DNA copy number in single cell and spatial omic sequencing data.  **Nature Methods, to appear**.
+* [Monopogen: single nucleotide variant calling from single cell sequencing.](https://www.nature.com/articles/s41587-023-01873-x) <br/>
+**J Dou**, Y Tan, KH Kock, J Wang , X Cheng, LM Tan,  KY Han, CC Hon, WY Park, JW Shin, H Jin, H Chen, L Ding, S Prabhakar, N Navin. K Chen. **Nature Biotechnology** 2023.   
+  see [Research Highlight in Nature Genetics.](https://www.nature.com/articles/s41588-023-01544-2)
 
-Li H, Wang D, Gao Q, Tan P, Wang Y, Cai X, Li A, Zhao Y, Thurman AL, Malekpour SA, Zhang Y, Sala R, Cipriano A, Wei C-L, Sebastiano V, Song C, Zhang NR, Au KF*. (2025) MiniQuant: long reads improve gene isoform quantification by reducing the data deconvolution error.  **Nature Biotechnology, to appear.**
+* [Large-scale whole-genome sequencing of three diverse Asian populations in Singapore.](https://www.cell.com/cell/pdf/S0092-8674(19)31070-0.pdf) <br/>
+D Wu\*, **J Dou\***, X Chai\*, C Bellis, A Wilm, C.C. Shih, W.W.J Soon, N Bertin, C.B Lin, C.C Khor, M DeGiorgio, S.S Cheng, L Bao, N Karnani, W Hwang, S Davila, P Tan, A Shabbir, A Moh, E Tan, J.N Foo, L.L Goh, K.P Leong, R.S.Y Foo, C Lam, A Richards, C.Y Cheng, T Aung, T Wong, H Ng, M Ackers-Johnson, E Aliwarga, K Kim Ban, D Bertrand, J Chambers, D Hui Chan, C Li Chan, M Chee, M Chee, P Chen, Y Chen, E Chew, W Chew, L Chiam, J Chong, I Chua, S Cook, W Dai, R Dorajoo, C Foo, R Goh, A Hillmer, I Irwan, F Jaufeerally, A Javed, J Jeyakani, J Koh, J Koh, P Krishnaswamy, J Kuan, N Kumari, A Lee, S Lee, S Lee, Y Lee, S Leong, Z Li, P Li, J Liew, O Liew, S Lim, W Lim, C Lim, T Lim, C Lim, S Loh, A Lok, C Chin, S Majithia, S Maurer-Stroh, W Meah, S Mok, N Nargarajan, P Ng, S Ng, Z Ng, J Ng, E Ng, S Ng, S Nusinovici, C Ong, B Pan, V Pedergnana, S Poh, S Prabhakar, K Prakash, I Quek, C Sabanayagam, W See, Y Sia, X Sim, W Sim, J So, D Soon, E Tai, N Tan, L Tan, H Tan, W Tan, M Tandiono, A Tay, S Thakur, Y Tham, Z Tiang, G Toh, P Tsai, L Veeravalli, C Verma, L Wang, M Wang, W Wong, Z Xie, K Yeo, L Zhang, W Zhai, Y Zhao, J Liu, C Wang. **Cell** 2019 (*Cover story*)  
 
-Zhang Z, Mathew D, Lim T, Mason K, Martinez CM, Huang S, Wherry EJ, Susztak K, Minn AJ, Ma Z, Zhang NR* (2025) Signal recovery in single cell batch integration. **Nature Biotechnology**,  published online Nov 26 2024.
+* [Metabolic competition is an important driver of tumor resistance after CAR NK cell therapy and can be overcome by cytokine engineering.](https://www.science.org/doi/full/10.1126/sciadv.add6997) <br/>
+L Li\*, V Mohanty\*, **J Dou\***, Y Huang\*, P P. Banerjee, Q Miao, J Lohr, T Vijaykumar, B Knoechel, R Basar, S Liang, M Kaplan, M Daher, E Liu, L Muniz-Feliciano, T J. Laskowski, D Marin, S Mielke, R E. C, Elizabeth J. Shpall, K Chen, K Rezvani. **Science Advance** 2023 
 
-Mathew D, Marmarelis ME, Foley C, Bauml M, Ye D, Ghinnagow R, Ngiow SF, Klapholz M, Jun S, Zhang Z, Zorc R, Diehn M, Hwang W-T, Zhang NR, Langer CJ, Wherry EJ, Minn AJ (2024) Clinical and Immunological Responses to Combined JAK Inhibition and PD1 Blockade for Lung Cancer. **Science** 384, 1303-1304.
+* [Bi-order multimodal integration of single-cell data.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02679-x) <br/>
+**J Dou\***, S Liang\*, V Mohanty, X Cheng, S Kim, J Choi, Y Li, K Rezvani, R Chen, K Chen. **Genome Biology** 2022 
 
-Mason K, Sathe A, Hess P, Rong J, Wu C-Y, Furth E, Susztak K, Levinsohn J, Ji HP, Zhang NR* (2024) Niche-DE: niche differential gene expression analysis in spatial transcriptomics data identifies context-dependent cell-cell interactions. **Genome Biology** 25, 14.
+* [Using off-target data from whole-exome sequencing to improve genotyping accuracy, association analysis, and polygenic risk prediction.](https://academic.oup.com/bib/article/22/3/bbaa084/5857014) <br/>
+**J Dou\***, D Wu\*, L Ding, K Wang, M Jiang, X Chai, D. Reilly, E Tai, J Liu, X Sim, S Cheng, C Wang. **Brief in Bioinformatics** 2020 
 
-Chen S, Zhu B, Huang S, Hickey JW, Lin KZ, Snyder M, Greenleaf WJ, Nolan GP, Zhang NR*, Ma Z* (2024) Integration of spatial and single-cell data across modalities with weak linkage.  **Nature Biotechnology** 42, 1096-1106.
+* [Estimation of kinship coefficient in structured and admixed populations using sparse sequencing data.](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007021) <br/>
+**J Dou**, B Sun, X Sim, I Irwan, J D Hughes, D F Reilly, E Tai, J Liu, C Wang. **PLoS Genetics** 2017 
 
-Lin K and Zhang NR* (2023) Quantifying common and distinct information in single-cell multimodal data with Tilted Canonical Correlation Analysis.  **Proceedings of the National Academy of Sciences**, 120 (32) e2303647120.
+* [Whole-genome restriction mapping by “subhaploid”-based RAD sequencing: an efficient and flexible approach for physical mapping and genome scaffolding.](https://academic.oup.com/genetics/article/206/3/1237/6064258) <br/>
+**J Dou**, H Dou, C Mu, L Zhang, Y Li, J, T Li, X Hu, S Wang, Z Bao. **Genetics** 2017 (*Cover story*) 
 
-Hickey JW et al. (2023) Organization of the human intestine at single-cell resolution. **Nature** 619 (7970), 572-584.
+* [Evaluation of the 2b-RAD method for genomic selection in scallop breeding.](https://www.nature.com/articles/srep19244) <br/>
+**J Dou**, X Li, Q Fu, W Jiao, Y Li, T Li, Y Wang, X Hu, S Wang, Z Bao. **Scientific Report** 2016 
 
-Sathe A, Mason K, Grimes SM, Zhou Z, Lau BT, Bai X, Su A, Tan X, Lee H, Suarez CJ, Nguyen Q, Poultsides G, Zhang NR, Ji HP (2022) Colorectal cancer metastases in the liver establish immunosuppressive spatial networking between tumor associated SPP1+ macrophages and fibroblasts.  **Clinical Cancer Research** 29, 244.
+* [High-resolution linkage and quantitative trait locus mapping aided by genome survey sequencing: building up an integrative genomic framework for a bivalve mollusc.](https://academic.oup.com/dnaresearch/article/21/1/85/347657) <br/>
+W Jiao\*, X Fu\*, **J Dou\***, H Li, H Su, J Mao, Q Yu, L Zhang, X Hu, X Huang, Y Wang, S Wang, Z Bao. **DNA Research** 2013 (*Editor's choice*) 
 
-Jiang Y, Harigaya Y, Zhang Z, Zhang H, Zang C, and Zhang NR* (2022) Nonparametric single-cell multiomic characterization of trio relationships between transcription factors, target genes, and cis-regulatory regions.  **Cell Systems** 13, 737.
+* [RADtyping: an integrated package for accurate de novo codominant and dominant RAD genotyping in mapping populations.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0079960) <br/>
+X Fu\*, **J Dou\***, J Mao, H Su, W Jiao, L Zhang, X Hu, X Huang, S Wang, Z Bao. **PLoS ONE** 2013 
 
-Bibby J, Agarwal D, Freiwald T, Kunz N, Merle NS, West EE, Larochelle A, Chinian F, Mukherjee S, Afzali B, Claudia K*, and Zhang NR* (2022).  Systematic Single Cell Pathway Analysis (SCPA) reveals novel pathways engaged during early T cell activation.  **Cell Reports** 41, 111697.
+* [Reference-free SNP calling: improved accuracy by preventing incorrect calls from repetitive genomic regions.](https://biologydirect.biomedcentral.com/articles/10.1186/1745-6150-7-17) <br/>
+**J Dou**, X Zhao, X Fu, W Jiao, N Wang, L Zhang, X Hu, S Wang, Z Bao. **Biology Direct** 2012
 
-Cucolo L, Chen Q, Qiu J, Yu Y, Klapholz M, Budinich KA, Zhang Z, Shao Y, Brodsky IE, Jordan MS, Gilliland DG , Zhang NR, Shi J and Minn AJ (2022). The interferon-stimulated gene RIPK1 regulates cancer cell intrinsic and extrinsic resistance to immune checkpoint blockade, **Immunity** 55, 671.
 
-Wang J, Zhao Q, Bowden J, Hemani G, Smith GD, Small DS, Zhang NR (2021) Causal inference for heritable phenotypic risk factors using heterogeneous genetic instruments.  **PLoS Genetics** 17(6), e1009575.
+## Contributing author (selected)
 
-Zhao Q, Wang J, Zhen M, Zhang NR, Hennessey S, Small DS and Rader DJ (2021) A Mendelian randomization study of the role of lipoprotein subfractions in coronary artery disease.  **Elife** 10, e58361.  
+* [Cord blood characteristics determine the efficacy of allogeneic IL-15 armored CAR-transduced natural killer cells against CD19-positive B cell tumors.](https://biologydirect.biomedcentral.com/articles/10.1186/1745-6150-7-17) <br/>
+D Marin\*, Y Li\*, R Basar\*, H Rafei\*, M Daher\*, **J Dou**, V Mohanty, M Dede, Y Nieto,N Uprety,S Acharya,E Liu ,J Wilson, P Banerjee, H Macapinlac, C Ganesh, P Thall, R Bassett, M Ammari, S Rao, Cao,M Shanley, C Hosing,P Kebriaei, L Nastoupil, C Flowers, S Moseley,P Lin, S Ang, U Popat, M Qazilbash,R Champlin, K Chen, E Shpall, K Rezvani. **Nature Medicine** 2023 
 
-Navin NE, Rozenblatt-Rosen O, and Zhang NR (2021) New frontiers in single-cell genomics.  **Genome Research**, 31, ix-x.
+* [KLF5 governs sphingolipid metabolism and barrier function of the skin.](https://genesdev.cshlp.org/content/36/13-14/822) <br/>
+Y Lyu, Y Guan, L Deliu, E Humphrey, J Frontera, Y Yang, **J Dou**,...,K Chen,P Nagarajan, Y Ge. **Genes Development** 2022 
 
-Wu C-Y, Lau BT, Kim H, Sathe A, Grimes SM, Ji HP, Zhang NR* (2021) Integrative single-cell analysis of allele-specific copy number alterations and chromatin accessibility in cancer.  **Nature Biotechnology**, doi: 10.1038/s41587-021-00911-w 
+* [Systematic decomposition of sequence determinants governing CRISPR/Cas9 specificity.](https://www.nature.com/articles/s41467-022-28028-x) <br/>
+R Fu\*, W He\*, **J Dou**, O D. Villarreal, E Bedford, H Wang, C Hou, L Zhang, Y Wang, Y Chen, X Gao, M Depken, H Xu. **Nature Communications** 2022 
 
-Mukherjee S, Agarwal D, Zhang NR & Bhattacharya BB (2020) Distribution-Free Multisample Tests Based on Optimal Matchings with Applications to Single Cell Genomics, **Journal of the American Statistical Association**.
+* [Single-cell manifold-preserving feature selection for detecting rare cell populations.](https://www.nature.com/articles/s43588-021-00070-7) <br/>
+S Liang, V Mohanty, **J Dou**, Q Miao, Y Huang, M Muftuoglu, L Ding, W Peng, K Chen. **Nature Computational Science** 2021 
 
-Rozenblatt-Rosen et al. (2020) The Human Tumor Atlas Network (HTAN): charting tumor transitions across space and time at single-cell resolution. **Cell** 181, 236.  (Consortia paper as part of HTAN)
+* [Single-cell copy number lineage tracing enabling gene discovery.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02291-5) <br/>
+F Wang, Q Wang, V Mohanty, S Liang, **J Dou**, J Han, D Conterno Minussi, R Gao, L Ding, N Navin, K Chen. **Genome Biology** 2021 
 
-Zhou Z, Xu B, Minn A, Zhang NR* (2020) Dendro: genetic heterogeneity profiling by single cell RNA sequencing, **Genome Biology** 21, 10. (R package: DENDRO)
+* [Genetic Admixture in the Culturally Unique Peranakan Chinese Population in Southeast Asia.](https://academic.oup.com/mbe/article/38/10/4463/6307269?login=true) <br/>
+D Wu, P Li, B Pan, Z Tiang, **J Dou**, I Williantarra, A Pribowo, R Nurdiansyah, SG Peranakan Project, R SY Foo, C Wang. **Molecular Biology and Evolution** 2021 
 
-Zhou Z, Ye C, Wang J, Zhang NR* (2020) Surface protein imputation from single cell transcriptomes by deep neural networks, **Nature Communications** 11, Article number: 651
+* [Generation of glucocorticoid-resistant SARS-CoV-2 T cells for adoptive cell therapy.](https://www.cell.com/cell-reports/pdfExtended/S2211-1247(21)00849-4) <br/>
+R Basar, N Uprety, E Ensley, M Daher, K Klein,...,**J Dou**,..,K Rezvani. **Cell Report** 2021 
 
-Agarwal D, Wang J, Zhang NR* (2020) Data denoising and post-denoising corrections in single cell RNA sequencing, **Statistical Science** 35 (1), 112-128.
+* [Targeting the v integrin-TGF-beta axis improves natural killer cell function against glioblastoma stem cells.](https://www.jci.org/articles/view/142116) <br/>
+H Shaim, M Shanley, R Basar, M Daher,..., **J Dou**,...,K Chen, F Lang, E Shpall, A Heimberger, K Rezvan. **The Journal of Clinical Investigation** 2021 
 
-Wang X, Park J, Susztak K, Zhang NR*, Li M* (2019) Bulk Tissue Cell Type Deconvolution with Multi-Subject Single-Cell Expression Reference, **Nature Communications** 10, 380. 
+* [De novo identification of essential protein domains from CRISPR-Cas9 tiling-sgRNA knockout screens.](https://www.nature.com/articles/s41467-019-12489-8) <br/>
+W He, L Zhang, O Villarreal, R Fu, E Bedford, **J Dou**, A Patel, M Bedford, X Shi, T Chen, B Bartholomew, H Xu. **Nature Communications** 2019 
 
-Wang J, Agarwal D, Huang M, Hu G, Zhou Z, Ye C, Zhang NR* (2019) Data denoising with transfer learning in single-cell transcriptomics, **Nature Methods** 16, 875.
+* [Scallop genome reveals molecular adaptations to semi-sessile life and neurotoxins.](https://www.nature.com/articles/s41467-017-01927-0) <br/>
+Y Li, X Sun, X Hu, X Xun, J Zhang, X Guo,..., **J Dou**,..., Z Jiang, R Li, S Wang, Z Bao. **Nature Communications** 2017 
 
-Benci JL et al. (2019) Opposing Functions of Interferon Coordinate Adaptive and Innate Immune Responses to Cancer Immune Checkpoint Blockade, **Cell** 178 (4), 933-948. e14.
+* [Scallop genome provides insights into evolution of bilaterian karyotype and development.](https://www.nature.com/articles/s41559-017-0120) <br/>
+S Wang, J Zhang, W Jiao, J Li, X Xun, Y Sun,...,**J Dou**,..., Z Jiang, D Chourrout, R Li, Z Bao. **Nature Ecology and Evolution** 2017 
 
-Nguyen S et al. (2019) Elite control of HIV is associated with distinct functional and transcriptional signatures in lymphoid tissue CD8+ T cells, **Science Translational Medicine** 11(523).
 
-Agarwal D, Zhang NR* (2019) A rank-based semblance kernel on probability spaces, **Science Advances** 5 (12), eaau9630.
+\* denotes equal contributions, ^#^ corresponding authors
 
-Huang M, Wang J, Torre E, Dueck H, Shaffer S, Bonasio R, Murray J, Raj A, Li M, Zhang NR* (2018) SAVER: Gene expression recovery for single cell RNA sequencing, **Nature Methods** 15, 539.
-
-Zhou Z, Wang W, Wang L-S, Zhang NR* (2018) Integrative DNA copy number detection and genotyping from sequencing and array-based platforms, **Bioinformatics** 34, 2349.
-
-Wang X, Jiang Y, Zhang NR, Small D (2018) Sensitivity analysis and power for instrumental variable studies, **Biometrics** doi: 10.1111/biom.12873.
-
-Urrutia E, Chen H, Zhou Z, Zhang NR*, Jiang Y* (2018) Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny, **Bioinformatics** 34, 2126.
-
-Zhang H, Zhang NR, Li M, Reilly MP (2018) First giant steps towards a cell atlas of atherosclerosis, **Circulation Research** 122, 1632.
-
-Wang J, Huang M, Torre E, Dueck H, Shaffer S, Murray J, Raj A, Li M, Zhang NR* (2018) Gene expression distribution deconvolution in single cell RNA sequencing, **Proceedings of the National Academy of Sciences** 115, E6437.
-
-Jiang Y, Nathanson KL, Zhang NR* (2018) CODEX2: full-spectrum copy number variation detection by high-throughput DNA sequencing, **Genome Biology** 19, 202.
-
-Wang X, Chen H, Zhang NR (2017) DNA copy number profiling using single-cell sequencing, **Briefings in Bioinformatics**, bbx004, https://doi.org/10.1093/bib/bbx004.
-
-Jiang Y, Zhang NR*, Li M* (2017) SCALE: modeling allele-specific gene expression by single-cell RNA-sequencing, **Genome Biology** 18, 74.
-
-Chen H, Jiang Y, Maxwell K, Nathanson K, Zhang NR* (2017) Allele-specific copy number estimation by whole exome sequencing, **Annals of Applied Statistics** 11, 1169.
-
-Jia C, Hu Y, Kelly D, Kim J, Li M*, Zhang NR* (2017) Accounting for technical noise in differential expression analysis of single-cell RNA sequencing data, **Nucleic Acids Research**, 45, 10978.
-
-Maxwell KN, Wubbenhorst B, Wenz BM, Sloover DD, Pluta J, Emery L, Barrett A, Kraya AA, Anastopoulos IN, Yu S, Jiang Y, Chen H, Zhang NR, Hackman N, D'Andrea K, Daber R, Morrissette JJ, Mitra N, Feldman M, Domchek SM, Nathanson KL (2017) BRCA locus-speciﬁc loss of heterozygosity in germline BRCA1 and BRCA2 carriers, **Nature Communications** 8, 319.
-
-Xia LC, Bell JM, Wood-Bouwens C, Chen JJ, Zhang NR*, Ji HP* (2017) Single molecule-based discovery of complex genomic rearrangements, **Nucleic Acids Research** 46, e19.
-
-Garman B, Anastopoulos IN, Krepler C, Brafford P, Sproesser K, Jiang Y, Wubbenhorst B,    Amaravadi R, Bennett J, Beqiri M, Elder D, Flaherty KT, Frederick DT, Gangadhar TC, Guarino M, Hoon D, Karakousis G, Liu Q, Mitra N, Petrelli NJ, Schuchter L, Shannan B, Sheilds CL, Wargo J, Wenz B, Wilson MA, Xiao M, Xu W, Xu X, Yin X, Zhang NR, Davies MA, Herlyn M, Nathanson KL (2017) Genetic and genomic characterization of 462 melanoma patient-derived xenografts, tumor biopsies and cell lines, **Cell Reports** 21, 1936.
-
-Wang X, Chen M, Yu X, Pornputtapong N, Chen H, Zhang NR, Powers RS, Krauthammer M (2016) Global copy number profiling of cancer genomes, **Bioinformatics**, 32, 926.
-
-Zhang NR, Yakir B, Xia LC, Siegmund DO (2016) Scan statistics on Poisson random fields with applications in genomics, **Annals of Applied Statistics** 10, 726.
-
-Xia LC, Sakshuwong S, Hopmans ES, Bell JM, Grimes SM, Siegmund DO, Ji HP, Zhang NR* (2016) A genome-wide approach for detecting novel insertion-deletion variants of mid-range size, **Nucleic Acids Research** 44, e126.
-
-Jiang Y, Qiu Y, Minn AJ, Zhang NR* (2016) Assessing intratumor heterogeneity and tracking longitudinal and spatial clonal evolutionary history by next-generation sequencing, **Proceedings of the National Academy of Sciences** 113, E5528.
-
-Chen H, Bell JM, Zavala NA, Ji HP, Zhang NR* (2015) Allele-specific copy number profiling by next-generation DNA sequencing, **Nucleic Acids Research** 43, e23.
-
-Jiang Y, Oldridge DA, Diskin SJ, Zhang NR* (2015) CODEX: a normalization and copy number variation detection method for whole exome sequencing, **Nucleic Acids Research** 43, e39.  
-
-Chen H, Zhang NRǂ (2015) Graph-based change-point detection, **The Annals of Statistics** 43, 139.
-
-Cushing A, Kamali A, Winters M, Hopmans ES, Bell JM, Grimes SM, Li CX, Zhang NR, Moss RB, Holodniy M, Ji H (2015) Emergence of hemagglutinin mutations during the course of influenza infection, **Scientific Reports** 5, 16178.
-
-Peixoto LL, Wimmer ME, Poplawski SG, Tudor JC, Kenworthy CA, Liu S, Mizuno K, Garcia BA, Zhang NR, Giese K, Abel T (2015) Memory acquisition and retrieval impact different epigenetic processes that regulate gene expression, **BMC Genomics** 16, S5.
-
-Yue M, Han X, De Masi L, Zhu C, Ma X, Zhang J, Wu R, Schmieder R, Kaushik RS, Fraser GP, Zhao S, McDermott PF, Weill FX, Mainil JG, Arze C, Fricke WF, Edwards RA, Brisson D, Zhang NR, Rankin SC, Schifferli DM (2015) Allelic variation contributes to bacterial host specificity, **Nature Communications** 6, 8754.
-
-Nadauld LD, Garcia S, Natsoulis G, Bell JM, Miotke L, Hopmans ES, Xu H, Pai RK, Palm C, Regan JF, Chen H, Flaherty P, Ootani A, Zhang NR, Ford JM, Kuo CJ, Ji HP (2014) Metastatic tumor evolution and organoid modeling implicate TGFBR2 as a cancer driver in diffuse gastric cancer, **Genome Biology** 15,428.
-
-Chen H, Zhang NRǂ (2013) Graph-based tests for two-sample comparisons of categorical data,  Statistica Sinica 23, 1479.
-
-Natsoulis G, Zhang NR, Welch K, Bell J, Ji HP (2013) Identification of insertion deletion mutations from deep targeted resequencing,  **Journal of Data Mining in Genomics and Proteomics** 4, 132.
-
-Muralidharan O, Natsoulis G, Bell J, Newburger D, Xu H, Keta I, Ji H, Zhang NR* (2012) A cross-sample statistical model for SNP detection in short-read sequencing data, **Nucleic Acids Research** 40, e5.
-
-Flaherty P, Natsoulis G, Muralidharan O, Winters M, Buenrostro J, Bell J, Brown S, Holodniy M, Zhang N, Ji HP (2012) Ultrasensitive detection of rare mutations using next-generation targeted resequencing, **Nucleic Acids Research** 40, e2.
-
-Shen J, Zhang NR* (2012) Change-point model on nonhomogeneous Poisson processes with application in copy number profiling by next-generation DNA sequencing, **Annals of Applied Statistics** 6, 476.
-
-Muralidharan O, Natsoulis G, Bell J, Ji H, Zhang NR* (2012) Detecting mutations in mixed sample sequencing data using empirical Bayes, **Annals of Applied Statistics** 6, 1047.
-
-Zhang NR, Siegmund DO (2012) Model selection for high dimensional, multi-sequence change-point problems, **Statistica Sinica** 22, 1507.
-
-Sun Y, Zhang NR and Owen A (2012) Multiple hypothesis testing, adjusted for latent variables, with an application to the agemap gene expression data, **Annals of Applied Statistics** 6, 1664.
-
-Chen H, Xing H, Zhang NR* (2011) Estimation of parent specific DNA copy number in tumors using high-density genotyping arrays, **PLoS Computational Biology** 7, e1001060.
-
-Siegmund DO, Yakir B, Zhang NRǂ (2011) Detecting simultaneous variant intervals in aligned sequences, **Annals of Applied Statistics** 5, 645.
-
-Efron B and Zhang NRǂ (2011) False discovery rates and copy number variation, **Biometrika** 98, 251.
-
-Natsoulis G, Bell JM, Xu H, Buenrostro JD, Ordonez H, Grimes S, Newburger D, Jensen M, Zahn JM, Zhang N, Ji HP (2011) A flexible approach for highly multiplexed candidate gene targeted resequencing, **PLoS One** 6, e21088.
-
-Siegmund DO, Zhang NR, Yakir B (2011) False discovery rate for scanning statistics, **Biometrika** 98, 979.
-            
 <br/><br/> 
 
-**For complete list, see [Google Scholar](https://scholar.google.com/citations?user=6EErockAAAAJ&hl=en).**
+**For complete list, see [Google Scholar](https://scholar.google.com/citations?user=2_q_kTUAAAAJ&hl=en).**
