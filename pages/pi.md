@@ -9,8 +9,8 @@ description: About the PI
     <div class="row-fluid">
         
         <div class="span2">
-            <a href="../assets/pics/nrz_small.JPEG">
-            <img src="../assets/pics/nrz_small.JPEG"
+            <a href="../assets/pics/nrz_small.JPEG.jpg">
+            <img src="../assets/pics/nrz_small.JPEG.jpg"
                   title="Jinzhuang Dou" alt="Jinzhuang Dou"  width="400"/></a>
         </div>
 
