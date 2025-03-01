@@ -16,8 +16,8 @@ description: About the PI
         </div>
 
         <div class="span5">
-            <h3>Nancy Zhang</h3>
-            Ge Li and Ning Zhang Professor of Statistics<br/>
+            <h3>Jinzhuang Dou</h3>
+            Assitant Professor of Statistics<br/>
             <a href="https://statistics.wharton.upenn.edu/">Department of Statistics and Data Science</a><br/>
             <a href="https://www.wharton.upenn.edu/">The Wharton School</a><br/>
             <a href="https://www.upenn.edu/">University of Pennsylvania</a><br/>
