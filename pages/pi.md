@@ -17,8 +17,9 @@ description: About the PI
 
         <div class="span5">
             <h3>Jinzhuang Dou</h3>
-            Assitant Professor; Department of Biomedical Informatics and Data Science 
-            Heersink School of Medicine/>
+            Assitant Professor
+	    <a href="https://www.uab.edu/medicine/informatics/about/welcome-to-dbids/">Department of Biomedical Informatics and Data Science</a><br/>	     
+            <a href="https://www.uab.edu/medicine/home/">Heersink School of Medicine</a><br/>	    
 	    <a href="../assets/nzhang_cv.pdf">Download my CV</a><br/>
 	    My Email:  jdou1@mdanderson.org
         </div>
