@@ -63,3 +63,22 @@
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+.scroll-down-btn {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 20px 0;
+  transition: background-color 0.3s;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.scroll-down-btn:hover {
+  background-color: #0056b3;
+}
