@@ -3,7 +3,8 @@
     <div class="row-fluid">
         
         <!-- First Figure -->
-        <div class="span5">
+         <h3>Single Cell Genomics</h3>         
+         <div class="span5">
             <a href="../assets/pics/monopogen.JPEG">
                 <img class="responsive-img" src="../assets/pics/monopogen.JPEG" title="Monopogen" alt="Monopogen" width="400" height="400"/>
             </a>
@@ -21,6 +22,7 @@
     <div class="row-fluid">
         
         <!-- Second Figure -->
+        <h3>Population Genetics</h3>        
         <div class="span5">
             <a href="../assets/pics/SG10K.JPEG">
                 <img class="responsive-img" src="../assets/pics/SG10K.JPEG" title="SG10K" alt="SG10K" width="400" height="400"/>
