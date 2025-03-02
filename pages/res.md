@@ -11,7 +11,7 @@ description: Research Highlights
         <div class="span2">
             <a href="../assets/pics/monopogen.JPEG">
             <img src="../assets/pics/monopogen.JPEG"
-                  title="Monopogen" alt="Monopogen"  width="400"/></a>
+                  title="Monopogen" alt="Monopogen"  width="800" height="900" /></a>
         </div>
 
         <div class="span5">
