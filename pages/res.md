@@ -1,4 +1,8 @@
-Below are some graphical highlights of our research
+---
+layout: page
+title: Below are some graphical highlights of our research
+description: Research Highlights
+---
 
 <div class="container">
 
