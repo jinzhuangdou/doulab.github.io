@@ -1,8 +1,4 @@
----
-layout: page
-title: Meet the Team!
-description: List of Lab Members
----
+
 
 <div class="container">
 
