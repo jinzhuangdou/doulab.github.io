@@ -16,14 +16,14 @@
 	    <a href="https://www.uab.edu/medicine/informatics/about/welcome-to-dbids/">Department of Biomedical Informatics and Data Science</a><br/>	     
             <a href="https://www.uab.edu/medicine/home/">Heersink School of Medicine</a><br/>	    
 	    <a href="../assets/jdou_cv.pdf">Download my CV</a><br/>
-	    My Email:  jdou1@mdanderson.org
+	    My Email:  jinzhuangdou198706@gmail.com
         </div>
     </div>
 </div>
 <hr />
 
 
-We are always looking for motivated students from Statistics, Biology, Computer Science, Bioinformatics, or similar fields.  [Contact Jinzhuang](mailto:jdou1@mdanderson.org) if you are interested, please include your CV and brief research statement.
+We are always looking for motivated students from Statistics, Biology, Computer Science, Bioinformatics, or similar fields.  Contact jinzhuang (jinzhuangdou198706@gmail.com) if you are interested, please include your CV and brief research statement.
 
 
 <br/>
