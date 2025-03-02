@@ -15,10 +15,23 @@
             We developed Monopogen <a href="https://www.nature.com/articles/s41587-023-01873-x" target="_blank">(Dou et al., 2023 Nature Biotech.)</a> to detect single-nucleotide variants (SNVs) from single-cell sequencing data. Monopogen-derived genotypes enable global and local ancestry inference and identification of admixed samples. It identifies variants associated with cellular phenotypes and also improves putative somatic SNV detection that enables clonal lineage tracing in cancer studies. This paper was highlighted in <a href="https://www.nature.com/articles/s41588-023-01544-2" target="_blank">Nature Genetics</a><br/>  
         </div>
     </div>
-    
+
+    <!-- Second Figure -->
+         <h3 style="font-size:16px;">Tumor Ecosystem</h3>
+         <div class="span5">
+            <a href="../assets/pics/monopogen.JPEG">
+                <img class="responsive-img" src="../assets/pics/monopogen.JPEG" title="Monopogen" alt="Monopogen" width="400" height="400"/>
+            </a>
+        </div>
+
+        <!-- Text Description for Figure 1 -->
+        <div class="span3">
+            We developed Monopogen <a href="https://www.nature.com/articles/s41587-023-01873-x" target="_blank">(Dou et al., 2023 Nature Biotech.)</a> to detect single-nucleotide variants (SNVs) from single-cell sequencing data. Monopogen-derived genotypes enable global and local ancestry inference and identification of admixed samples. It identifies variants associated with cellular phenotypes and also improves putative somatic SNV detection that enables clonal lineage tracing in cancer studies. This paper was highlighted in <a href="https://www.nature.com/articles/s41588-023-01544-2" target="_blank">Nature Genetics</a><br/>  
+        </div>
+    </div>    
     <br/>
 
-    <!-- Second Row (Figure 2 and Description) -->
+    <!-- Third Row (Figure 2 and Description) -->
     <div class="row-fluid">
         
         <!-- Second Figure -->
