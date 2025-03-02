@@ -22,7 +22,6 @@
 </div>
 <hr />
 
-
 We are always looking for motivated students from Statistics, Biology, Computer Science, Bioinformatics, or similar fields.  Contact jinzhuang (jinzhuangdou198706@gmail.com) if you are interested, please include your CV and brief research statement.
 
 
@@ -34,4 +33,4 @@ We are always looking for motivated students from Statistics, Biology, Computer 
 
 Name | Year of Departure | Position in Lab | Position after Lab
 :----|:------------------|:----------------|:------------------
-- |2012 | - | -, -
+- | - | - | -, -
