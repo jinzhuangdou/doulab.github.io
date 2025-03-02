@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Opportunities in the lab
+title: Opportunities
 description: Opportunities
 ---
 
