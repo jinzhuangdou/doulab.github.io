@@ -20,10 +20,13 @@ Requirements:
 
 Requirements:
 1. Bachelor’s or master’s degree in computer science, bioinformatics or related fields. 
-2. Familiar with C++, Java, and (or) Phython. 
+2. Familiar with Phython and R. 
 3. Experience in developing software packges or web-based servers is highly preferred. 
 4. Good communication skills in English. 
 
 * **GRADUATE STUDENT (2)**  
 
 We welcome graduate students from the UAB. Students with a strong quantitative background, particularly in mathematics and computer science, are especially encouraged to explore potential opportunities with us. Please direct your inquiries to Jinzhuang via email.
+
+
+We are located in downtown Birmingham, a vibrant and welcoming city that offers a great environment for both living and scientific research. The UAB School of Medicine consistently ranks among the **top 30** for research in U.S. News & World Report’s Best Medical Schools. In 2018, the School of Medicine secured approximately $233 million in grant funding, placing it **21st** among all U.S. medical schools. Additionally, six departments ranked in the top 20 nationally. The Departments of Urology and Pathology ranked 12th, the Department of Genetics 13th, the Departments of Medicine and Neurology 17th, and the Department of Pediatrics 18th.
