@@ -27,7 +27,7 @@ description: List of Lab Members
 <hr />
 
 
-**We are always looking for motivated students from Statistics, Biology, Computer Science, Bioinformatics, or similar fields.  [Contact Jinzhuang](mailto:jdou1@mdanderson.org) if you are interested, please include your CV and brief research statement.**
+We are always looking for motivated students from Statistics, Biology, Computer Science, Bioinformatics, or similar fields.  [Contact Jinzhuang](mailto:jdou1@mdanderson.org) if you are interested, please include your CV and brief research statement.
 
 
 <br/>
