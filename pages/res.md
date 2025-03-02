@@ -20,7 +20,7 @@
          <h3 style="font-size:16px;">Tumor Ecosystem</h3>
          <div class="span5">
             <a href="../assets/pics/NK.JPEG">
-                <img class="responsive-img" src="../assets/pics/NK_resized.JPEG" title="TME" alt="NK" width="400" height="400"/>
+                <img class="responsive-img" src="../assets/pics/NK_resized.png" title="TME" alt="NK" width="400" height="400"/>
             </a>
         </div>
 
