@@ -1,7 +1,6 @@
 <div class="container">
 
     <div class="row-fluid">
-        
         <!-- First Figure -->
          <h3 style="font-size:16px;">Single Cell Genomics</h3>
          <div class="span5">
@@ -17,6 +16,7 @@
     </div>
 
     <!-- Second Figure -->
+    <div class="row-fluid">
          <h3 style="font-size:16px;">Tumor Ecosystem</h3>
          <div class="span5">
             <a href="../assets/pics/NK.JPEG">
@@ -33,7 +33,6 @@
 
     <!-- Third Row (Figure 2 and Description) -->
     <div class="row-fluid">
-        
         <!-- Second Figure -->
         <h3 style="font-size:16px;">Population Genetics</h3>  
         <div class="span5">
@@ -44,10 +43,11 @@
 
         <!-- Text Description for Figure 2 -->
         <div class="span3">
-            We have involved in the SG10K project. Because of Singapore's unique immigration history, the SG10K project <a href="https://www.cell.com/cell/fulltext/S0092-8674(19)31070-0?dgcid=raven_jbs_etoc_email" target="_blank">(Wu*, Dou*, Chai* et al., 2019 Cell)</a> provides a snapshot of the genetic diversity across East, Southeast, and South Asia, and unravels insights into the population structure, demographic history, and natural selection of Asian populations. This paper was featured on the <a href="https://www.cell.com/cell/issue?pii=S0092-8674(18)X0022-1#fullCover" target="_blank">Cover of Cell</a>. <br/>  
+            We were involved in the SG10K project. Because of Singapore's unique immigration history, the SG10K project <a href="https://www.cell.com/cell/fulltext/S0092-8674(19)31070-0?dgcid=raven_jbs_etoc_email" target="_blank">(Wu*, Dou*, Chai* et al., 2019 Cell)</a> provides a snapshot of the genetic diversity across East, Southeast, and South Asia, and offers insights into the population structure, demographic history, and natural selection of Asian populations. This paper was featured on the <a href="https://www.cell.com/cell/issue?pii=S0092-8674(18)X0022-1#fullCover" target="_blank">Cover of Cell</a>. <br/>  
         </div>
     </div>
 
 </div>
 
 <hr />
+
