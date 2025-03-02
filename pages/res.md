@@ -7,16 +7,11 @@ Below are some graphical highlights of our research
         <div class="span2">
             <a href="../assets/pics/monopogen.JPEG">
             <img src="../assets/pics/monopogen.JPEG"
-                  title="Jinzhuang Dou" alt="Jinzhuang Dou"  width="400"/></a>
+                  title="Monopogen" alt="Monopogen"  width="400"/></a>
         </div>
 
         <div class="span5">
-            <h3>Jinzhuang Dou</h3><br/>
-            Assitant Professor<br/>  	    
-	    <a href="https://www.uab.edu/medicine/informatics/about/welcome-to-dbids/">Department of Biomedical Informatics and Data Science</a><br/>	     
-            <a href="https://www.uab.edu/medicine/home/">Heersink School of Medicine</a><br/>	    
-	    <a href="../assets/jdou_cv.pdf">Download my CV</a><br/>
-	    My Email:  jdou1@mdanderson.org
+            Single-cell omics technologies enable molecular characterization of diverse cell types and states. We describe Monopogen, a computational tool to detect single-nucleotidevariants (SNVs) from single-cell sequencing data. Monopogen-derived genotypes enable global and local ancestry inference and identification of admixed samples. It identifies variants associated with cellular phenotypes and also improves putative somatic SNV detection that enables clonal lineage tracing in cancer studies. <br/>  	    
         </div>
     </div>
 </div>
