@@ -16,7 +16,7 @@ Requirements:
 5. Demonstrated excellence in research (at least 1 high-quality publications in reputable journals). 
 6. Good communication skills in English. 
 
-* **programmer (1)**  
+* **Programmer (1)**  
 
 Requirements:
 1. Bachelor’s or master’s degree in computer science, bioinformatics or related fields. 
