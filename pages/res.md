@@ -11,7 +11,7 @@
 
         <!-- Text Description for Figure 1 -->
         <div class="span3">
-            We describe <a href="https://www.nature.com/articles/s41587-023-01873-x" target="_blank">Monopogen</a> (Dou et al., 2023 Nature Biotech.) to detect single-nucleotide variants (SNVs) from single-cell sequencing data. Monopogen-derived genotypes enable global and local ancestry inference and identification of admixed samples. It identifies variants associated with cellular phenotypes and also improves putative somatic SNV detection that enables clonal lineage tracing in cancer studies. <br/>  
+            We describe <a href="https://www.nature.com/articles/s41587-023-01873-x" target="_blank">Monopogen</a> (Dou et al., 2023 Nature Biotech.) to detect single-nucleotide variants (SNVs) from single-cell sequencing data. Monopogen-derived genotypes enable global and local ancestry inference and identification of admixed samples. It identifies variants associated with cellular phenotypes and also improves putative somatic SNV detection that enables clonal lineage tracing in cancer studies. This work is highlighted in <a href="https://www.nature.com/articles/s41588-023-01544-2" target="_blank">Nature Genetics</a><br/>  
         </div>
     </div>
     
