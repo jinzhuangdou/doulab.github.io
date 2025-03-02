@@ -3,7 +3,7 @@ layout: page
 description: Dou Lab Website
 ---
 
-![Lab building](assets/pics/frontimage.jpeg)
+![Lab building](assets/pics/frontimage_copy.jpeg)
 
 ## Dou Lab @ UAB
 
