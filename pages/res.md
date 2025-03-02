@@ -5,7 +5,7 @@
         <!-- First Figure -->
         <div class="span5">
             <a href="../assets/pics/monopogen.JPEG">
-                <img class="responsive-img" src="../assets/pics/monopogen.JPEG" title="Monopogen" alt="Monopogen" width="800" height="800"/>
+                <img class="responsive-img" src="../assets/pics/monopogen.JPEG" title="Monopogen" alt="Monopogen" width="600" height="600"/>
             </a>
         </div>
 
@@ -23,7 +23,7 @@
         <!-- Second Figure -->
         <div class="span5">
             <a href="../assets/pics/SG10K.JPEG">
-                <img class="responsive-img" src="../assets/pics/SG10K.JPEG" title="SG10K" alt="SG10K" width="800" height="800"/>
+                <img class="responsive-img" src="../assets/pics/SG10K.JPEG" title="SG10K" alt="SG10K" width="600" height="600"/>
             </a>
         </div>
 
