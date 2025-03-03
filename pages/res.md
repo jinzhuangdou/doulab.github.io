@@ -15,18 +15,19 @@
         </div>
     </div>
 
-    
- <div class="row-fluid">
-     <!-- Second Figure -->
+
+<div class="row-fluid">
+        <!-- First Figure -->
          <div class="span5">
             <a href="../assets/pics/bindSC.png">
                 <img class="responsive-img" src="../assets/pics/bindSC.png" title="BindSC" alt="BindSC" width="400" height="400"/>
             </a>
         </div>
-        <!-- Text Description for f2 -->
+
+        <!-- Text Description for Figure 1 -->
         <div class="span3">
-              We present a novel mathematical solution named bi-order canonical correlation analysis (bi-CCA) <a href="https://www.nature.com/articles/s41587-023-01873-x" target="_blank">(Dou et al., 2023 Genome Bio.)</a>, which extends the widely used CCA approach to iteratively align the rows and the columns between data matrices. Bi-CCA is generally applicable to combinations of any two single-cell modalities. <br/>  
-        </div>  
+           We present a novel mathematical solution named bi-order canonical correlation analysis (bi-CCA) <a href="https://www.nature.com/articles/s41587-023-01873-x" target="_blank">(Dou et al., 2023 Genome Bio.)</a>, which extends the widely used CCA approach to iteratively align the rows and the columns between data matrices. Bi-CCA is generally applicable to combinations of any two single-cell modalities. <br/>  
+        </div>
     </div>
 
     <br/>
