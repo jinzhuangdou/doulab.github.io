@@ -14,7 +14,9 @@
             We developed Monopogen <a href="https://www.nature.com/articles/s41587-023-01873-x" target="_blank">(Dou et al., 2023 Nature Biotech.)</a> to detect single-nucleotide variants (SNVs) from single-cell sequencing data. Monopogen-derived genotypes enable global and local ancestry inference and identification of admixed samples. It identifies variants associated with cellular phenotypes and also improves putative somatic SNV detection that enables clonal lineage tracing in cancer studies. This paper was highlighted in <a href="https://www.nature.com/articles/s41588-023-01544-2" target="_blank">Nature Genetics</a><br/>  
         </div>
     </div>
+<br/>
 <hr />
+
 <div class="row-fluid">
         <!-- First Figure -->
         <h3 style="font-size:16px;"> </h3>
@@ -30,7 +32,7 @@
         </div>
         
     </div>
-
+    <br/>
     <hr />
     <!-- 3 Figure -->
     <div class="row-fluid">
@@ -45,9 +47,10 @@
         <div class="span3">
         Through collaboration with NK immunologists, we characterized the interaction landscape between NK and tumor cells in an in vivo mouse model <a href="https://www.science.org/doi/full/10.1126/sciadv.add6997" target="_blank">(Li*, Vakul*, Dou* et al., 2023 Sci. Adv.)</a> . During the first two weeks, tumor burden and heterogeneity in the CAR19/IL-15 NK cell treatment group were remarkably lower than those in the CAR19 and NT-NK cell groups, attributed to the presence of a unique NK cluster (highlighted in the gray box).
         </div>
-    </div>  
-    <hr />
+    </div> 
     <br/>
+    <hr />
+
     <!-- Third Row (Figure 2 and Description) -->
     <div class="row-fluid">
         <!-- Second Figure -->
