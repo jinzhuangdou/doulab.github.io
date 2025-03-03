@@ -26,7 +26,7 @@
 
         <!-- Text Description for Figure 1 -->
         <div class="span3">
-           We present a novel mathematical solution named bi-order canonical correlation analysis (bi-CCA) <a href="https://www.nature.com/articles/s41587-023-01873-x" target="_blank">(Dou et al., 2023 Genome Bio.)</a>, which extends the widely used CCA approach to iteratively align the rows and the columns between data matrices. Bi-CCA is generally applicable to combinations of any two single-cell modalities. <br/>  
+           We present a novel mathematical solution named bi-order canonical correlation analysis (bi-CCA) <a href="https://www.nature.com/articles/s41587-023-01873-x" target="_blank">(Dou et al., 2023 Genome Bio.)</a>, which extends the widely used CCA approach to iteratively align the rows and the columns between data matrices. Bi-CCA is generally applicable to combinations of any two single-cell modalities for diagnal integraiton. <br/>  
         </div>
     </div>
 
