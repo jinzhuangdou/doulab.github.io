@@ -15,7 +15,7 @@
         </div>
     </div>
 
-
+<br/>
 <div class="row-fluid">
         <!-- First Figure -->
          <div class="span5">
