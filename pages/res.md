@@ -16,7 +16,7 @@
 
        <!-- First Figure -->
          <div class="span5">
-            <a href="../assets/pics/monopogen.JPEG">
+            <a href="../assets/pics/bindSC.png">
                 <img class="responsive-img" src="../assets/pics/bindSC.png" title="BindSC" alt="BindSC" width="400" height="400"/>
             </a>
         </div>
