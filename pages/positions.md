@@ -5,7 +5,7 @@ description: Opportunities
 ---
 
 We welcome motivated researchers to join us to explore exciting sciences together. 
-~~
+<s>
 * **Postdoctoral Fellow (1)** 
 
 Requirements:
@@ -15,7 +15,8 @@ Requirements:
 4. Experience in analyzing large-scale genetic/genomic data sets is preferred. 
 5. Demonstrated excellence in research (at least 1 high-quality publications in reputable journals). 
 6. Good communication skills in English. 
-~~
+</s>
+
 * **Graduate Student (1-2)**  
 
 We welcome graduate students from the UAB. Students with a strong quantitative background, particularly in mathematics and computer science, are especially encouraged to explore potential opportunities with us. Please direct your inquiries to Jinzhuang via email.
