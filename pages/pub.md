@@ -3,6 +3,13 @@ layout: page
 title: Publications (Before in UAB)
 description: Publications
 ---
+2025
+
+* [Depletion of effector regulatory T cells associates with major response to induction dual immune checkpoint blockade.](https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-24-1390/762901/Depletion-of-Effector-Regulatory-T-Cells) <br/>S, Jiang, X., Rudqvist, N. P., Jiang, B., Ye, S., He, S., Liang, Q., ... & Gillison, M. L. **Cancer Discovery**,  (2025) OF1-OF24.
+
+* [CREM is a regulatory checkpoint of CAR and IL-15 signalling in NK cells](https://www.nature.com/articles/s41586-025-09087-8) <br/>S, Rafei, H., Basar, R., Acharya, S. et al. **Nature** (2025).
+
+
 2024
 
 * [Interleukin-21 engineering enhances NK cell activity against glioblastoma via CEBPD.](https://www.cell.com/cancer-cell/abstract/S1535-6108(24)00272-1) <br/>S, Mayra, M Daher, **J Dou**, S Li, R Basar, H Rafei, M Dede et al. **Cancer cell** 42, no. 8 (2024): 1450-1466.
