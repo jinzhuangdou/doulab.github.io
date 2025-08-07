@@ -3,7 +3,7 @@ layout: page
 title: News
 description: news update by our group
 ---
-
-* Jinzhuang will join DBIDS in Heersink School of Medicine @ UAB in June 2025.
+* Aug 3, 2025: Jinzhuang was invited to give a talk at ICIBM 2025 (Columbus, Ohio).
+* Jun 1, Jinzhuang joined DBIDS in Heersink School of Medicine @ UAB.
 
 
