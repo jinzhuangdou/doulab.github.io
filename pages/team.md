@@ -5,8 +5,8 @@
     <div class="row-fluid">
         
         <div class="span2">
-            <a href="../assets/pics/nrz_small.JPEG">
-            <img src="../assets/pics/nrz_small.JPEG"
+            <a href="../assets/pics/douj.jpg">
+            <img src="../assets/pics/douj.jpg"
                   title="Jinzhuang Dou" alt="Jinzhuang Dou"  width="400"/></a>
         </div>
 
@@ -16,7 +16,7 @@
 	    <a href="https://www.uab.edu/medicine/informatics/about/welcome-to-dbids/">Department of Biomedical Informatics and Data Science</a><br/>	     
             <a href="https://www.uab.edu/medicine/home/">Heersink School of Medicine</a><br/>	    
 	    <a href="../assets/jdou_cv.pdf">Download my CV</a><br/>
-	    My Email:  jinzhuangdou198706@gmail.com
+	    My Email: jdou@uab.edu or jinzhuangdou198706@gmail.com
         </div>
     </div>
 </div>
