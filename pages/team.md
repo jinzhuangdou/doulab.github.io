@@ -34,11 +34,12 @@ We are always looking for motivated students from Statistics, Biology, Computer 
         <div class="span2">
             <a href="../assets/pics/ruofan_mao.jpg">
             <img src="../assets/pics/ruofan_mao.jpg"
-                  title="Ruofan Mao" alt="Ruofan Mao"  width="400"/></a>
+                   width="400"/></a>
         </div>
 
         <div class="span5">
-            <h3>Ruofan Mao, Virtual Cell Modeling</h3><br/>
+            <h3>Ruofan Mao </h3><br/>
+			Virtual Cell Modeling            
             MS, Computer Science, UAB<br/>  	    
         </div>
     </div>
