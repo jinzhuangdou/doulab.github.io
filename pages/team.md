@@ -39,7 +39,7 @@ We are always looking for motivated students from Statistics, Biology, Computer 
 
         <div class="span5">
             <h3>Ruofan Mao </h3> <br/>
-			Virtual Cell Modeling <br/>            
+			Virtual Cell Modeling, <br/>            
             MS, Computer Science, UAB<br/>  	    
         </div>
     </div>
