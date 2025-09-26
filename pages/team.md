@@ -53,8 +53,8 @@ We are always looking for motivated students from Statistics, Biology, Computer 
     <div class="row-fluid">
         
         <div class="span2">
-            <a href="../assets/pics/xin_liang.jpg">
-            <img src="../assets/pics/xin_liang.jpg"
+            <a href="../assets/pics/xin_liang.jpeg">
+            <img src="../assets/pics/xin_liang.jpeg"
                    width="400"/></a>
         </div>
 
