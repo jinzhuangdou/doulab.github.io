@@ -39,13 +39,33 @@ We are always looking for motivated students from Statistics, Biology, Computer 
 
         <div class="span5">
             <h3>Ruofan Mao </h3> <br/>
-			Data Information Coordinator <br/>       
+			Data Information Coordinator (Sep 2025-) <br/>       
             MS, Computer Science@UAB<br/>  	    
         </div>
     </div>
 </div>
 <hr /><br/>
 
+
+<br/>
+<div class="container">
+
+    <div class="row-fluid">
+        
+        <div class="span2">
+            <a href="../assets/pics/xin_liang.jpg">
+            <img src="../assets/pics/xin_liang.jpg"
+                   width="400"/></a>
+        </div>
+
+        <div class="span5">
+            <h3>Xin Liang </h3> <br/>
+			Postdoc (Oct 2025-) <br/>       
+            Phd, Bioinformatics@Harbin Medical University <br/>  	    
+        </div>
+    </div>
+</div>
+<hr /><br/>
 ### Alumni
 
 Name | Year of Departure | Position in Lab | Position after Lab
