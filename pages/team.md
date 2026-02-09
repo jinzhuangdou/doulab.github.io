@@ -66,6 +66,28 @@ We are always looking for motivated students from Statistics, Biology, Computer 
     </div>
 </div>
 <hr /><br/>
+
+
+<br/>
+<div class="container">
+
+    <div class="row-fluid">
+        
+        <div class="span2">
+            <a href="../assets/pics/zihao_zhang.jpeg">
+            <img src="../assets/pics/zihao_zhang.jpeg"
+                   width="400"/></a>
+        </div>
+
+        <div class="span5">
+            <h3>Zihao Zhang </h3> <br/>
+			PhD rotation student (Feb 2026-) <br/>       
+            MS, Bioinformatics@Georgetown University <br/>  	    
+        </div>
+    </div>
+</div>
+<hr /><br/>
+
 ### Alumni
 
 Name | Year of Departure | Position in Lab | Position after Lab
