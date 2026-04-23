@@ -72,4 +72,4 @@ We are always looking for motivated students from Statistics, Biology, Computer 
 
 Name | Year of Departure | Position in Lab | Position after Lab
 :----|:------------------|:----------------|:------------------
-Zihao Zhang | 03/2026 | PhD rotation student | Phd program in UAB
+Zihao Zhang | 03/2026 | PhD rotation student |  GBS Program in UAB
