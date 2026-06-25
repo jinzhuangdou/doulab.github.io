@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications (Before in UAB)
+title: Publications
 description: Publications
 ---
 2026
