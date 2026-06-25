@@ -3,6 +3,10 @@ layout: page
 title: Publications (Before in UAB)
 description: Publications
 ---
+2026
+
+* [Somatic variant detection in normal tissues from single-cell sequencing data.] <br/>S, R Luo, Z Wang, J Dou, K Chen, R Chen. **Cell Genomics** (in revision).
+
 2025
 
 * [Depletion of effector regulatory T cells associates with major response to induction dual immune checkpoint blockade.](https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-24-1390/762901/Depletion-of-Effector-Regulatory-T-Cells) <br/>S, Jiang, X., Rudqvist, N. P., Jiang, B., Ye, S., He, S., Liang, Q., ... & Gillison, M. L. **Cancer Discovery**,  (2025) OF1-OF24.
