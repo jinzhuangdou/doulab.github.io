@@ -5,7 +5,7 @@ description: Publications
 ---
 2026
 
-* [Somatic variant detection in normal tissues from single-cell sequencing data.] <br/>S, R Luo, Z Wang, J Dou, K Chen, R Chen. **Cell Genomics** (in revision).
+* [Somatic variant detection in normal tissues from single-cell sequencing data.]() <br/>S, R Luo, Z Wang, J Dou, K Chen, R Chen. **Cell Genomics** (in revision).
 
 2025
 
