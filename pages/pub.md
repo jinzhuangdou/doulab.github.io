@@ -3,9 +3,16 @@ layout: page
 title: Publications
 description: Publications
 ---
+
+\* co-first authors; ^ corresponding authors
+
+Preprint
+
+* [Single-Cell Indel Detection Enhances Genetic Ancestry and Cellular Lineage Analysis.](https://www.biorxiv.org/content/10.64898/2026.09.02.748725v1) <br/> Z Wang, K Chen, **J Dou^**.
+
 2026
 
-* [Somatic variant detection in normal tissues from single-cell sequencing data.]() <br/>S, R Luo, Z Wang, J Dou, K Chen, R Chen. **Cell Genomics** (in revision).
+* [Somatic variant detection in normal tissues from single-cell sequencing data.]() <br/>S, R Luo, Z Wang, J Dou, K Chen, R Chen. **Cell Systems** (AIP).
 
 2025
 
